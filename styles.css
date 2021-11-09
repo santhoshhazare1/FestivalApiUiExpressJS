@@ -1,0 +1,34 @@
+body{
+    background-color : #bec480;
+  }
+  h1{
+    text-align : center;
+    color : #1b1a18;
+  }
+  
+  h2{
+    color : #F95F00;
+    
+  }
+  
+  p{
+    font-size : 1.5em;
+  }
+  .FestivalsTitle{
+    color : #F95F00;
+    font-size : 1.5em;
+    text-align: center;
+  }
+  
+  .PlacesTitle{
+    color : #F95F00;
+    font-size : 1.5em;
+   
+  }
+  
+  .festfontsize{
+    font-size : 1.2em;
+    text-align: center;
+  }
+  
+  
